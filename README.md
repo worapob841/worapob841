@@ -1,5 +1,5 @@
-## Hi there 👋
-### I'm Pol.
+# Hi there 👋
+### I'm Pol 
 
 - 🧑🏻 I'm currently a sophomore student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
 - 📚 I'm currently learning javascript ,python & more.
