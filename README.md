@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### I'm Pol
-### 🧑🏻 Who am I?
-- I'm currently a sophomore student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
+
+🧑🏻 I'm currently a sophomore student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
+📚 I'm currently learning javascript ,python & more.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palapolla&layout=compact&theme=vue-dark&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
