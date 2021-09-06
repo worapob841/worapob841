@@ -5,7 +5,12 @@
 - 📚 I'm currently learning javascript ,python & more.
 - 🌟 I'm interested in everything that makes me have to code. But, there isn't one in particular just for now.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palapolla&layout=compact&theme=vue-dark&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Palapolla's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palapolla&theme=github_dark)
+![Pallapolla's lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palapolla&theme=github_dark)
+![Pallapolla stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palapolla&theme=github_dark)
+![Pallapolla's productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Palapolla&theme=github_dark)
+
+
 
 
 
