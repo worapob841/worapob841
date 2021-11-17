@@ -9,6 +9,7 @@
 ![Pallapolla's lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palapolla&theme=github_dark)
 ![Pallapolla's productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Palapolla&theme=github_dark)
 <!--![Pallapolla stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palapolla&theme=github_dark)-->
+![Alt Text](https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47t7kx18ffud6ac45jk3myg930d5r204wru2hiefvg&rid=giphy.gif&ct=g)
 
 
 
