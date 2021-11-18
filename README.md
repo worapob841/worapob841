@@ -2,7 +2,7 @@
 ### I'm Pol 
 
 - 🧑🏻 I'm currently a sophomore student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
-- 📚 I'm currently learning javascript ,python & more.
+- 📚 I'm currently learning Machine Learning and more.
 - 🌟 I'm interested in everything that makes me have to code. But, there isn't one in particular just for now.
 
 [![Palapolla's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palapolla&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
