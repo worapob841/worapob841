@@ -7,11 +7,12 @@ You can call me "Paul".
 - 🧑🏻 I'm currently a junior student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
 - 📚 I'm currently learning Machine Learning and more.
 - 🌟 I'm interested in everything that makes me have to code. Especially Machine Learning
+<br/>
 
-[![Warapob's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Warapob&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
-![Warapob's lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Warapob&theme=github_dark)
-![Warapob's productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Warapob&theme=github_dark)
-<!--![Warapob stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warapob&theme=github_dark)-->
+![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&theme=github_dark)<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&card_width=446&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
+
 
 
 
@@ -36,4 +37,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 I'm interested in everything that makes me have to code. But, there isn't one in particular just for now.
 ![Alt Text](https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47t7kx18ffud6ac45jk3myg930d5r204wru2hiefvg&rid=giphy.gif&ct=g)
+
+
+[![Warapob's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Warapob&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
+![Warapob's lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Warapob&theme=github_dark)
+![Warapob's productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Warapob&theme=github_dark)
+
 -->
