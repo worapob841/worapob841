@@ -20,8 +20,8 @@ You can call me "Paul".
 
 <div>
 
-![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&hide_border=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&hide_border=true&card_width=446&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
+![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&hide_border=true&card_width=400&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&hide_border=true&card_width=400&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=Warapob&label=Views&color=blue&style=for-the-badge" alt="Warapob.github.io" />
 </div>
