@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ### I'm Pol 
 You can call me "Paul".
 <br/>
@@ -22,9 +22,23 @@ You can call me "Paul".
 
 ![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&hide_border=true&card_width=400&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=Warapob&label=Views&color=blue&style=for-the-badge" alt="Warapob.github.io" />
+  
 </div>
+<div>
+  <a href="https://www.instagram.com/pol_warapob/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href "https://www.linkedin.com/in/warapob-keatkongsang-57a871249/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://web.facebook.com/warapob.keatkongsang" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Warapob&label=Views&color=blue&style=for-the-badge" height="25" alt="Warapob.github.io" />
+  
+</div>
+
+
 
 
 
