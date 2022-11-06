@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Pol 
+### I'm Pol 
 You can call me "Paul".
 <br/>
 <br/>初めまして。ポルです。KMITL 大学のコンピューター エンジニアリングの学生 3 年生です。
@@ -8,7 +8,7 @@ You can call me "Paul".
 - 📚 I'm currently learning Machine Learning and more.
 - 🌟 I'm interested in everything that makes me have to code. Especially Machine Learning
 <div>
-  <h2>Tools</h3>
+  <h2> 💻 Tools</h3>
   <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="50px" />
   <img src="https://numpy.org/images/logo.svg" width="50px" />
   <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="50px" />
