@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Pol 
+## I'm Pol 
 You can call me "Paul".
 <br/>
 <br/>初めまして。ポルです。KMITL 大学のコンピューター エンジニアリングの学生 3 年生です。
@@ -7,11 +7,24 @@ You can call me "Paul".
 - 🧑🏻 I'm currently a junior student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
 - 📚 I'm currently learning Machine Learning and more.
 - 🌟 I'm interested in everything that makes me have to code. Especially Machine Learning
-<br/>
+<div>
+  <h2>Tools</h3>
+  <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="50px" />
+  <img src="https://numpy.org/images/logo.svg" width="50px" />
+  <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="50px" />
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="50px" />
+  
+</div>
 
-![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&theme=github_dark)<br/>
-<br/>
+## 📈 GitHub Stats
+
+<div>
+
+![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&card_width=446&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=Warapob&label=Views&color=blue&style=for-the-badge" alt="Warapob.github.io" />
+</div>
 
 
 
