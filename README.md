@@ -13,6 +13,12 @@ You can call me "Paul".
   <img src="https://numpy.org/images/logo.svg" width="50px" />
   <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="50px" />
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="50px" />
+  <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" width="50px" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50px" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px" />
+  
+  
   
 </div>
 
@@ -20,7 +26,7 @@ You can call me "Paul".
 
 <div>
 
-![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&hide_border=true&card_width=400&theme=github_dark)
+![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&hide_border=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
   
 </div>
