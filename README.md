@@ -26,7 +26,7 @@ You can call me "Paul".
 
 <div>
 
-![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&hide_border=true&theme=github_dark)
+![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&card_width=400&hide_border=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
   
 </div>
