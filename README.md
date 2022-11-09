@@ -16,8 +16,8 @@ You can call me "Paul".
   <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" width="50px" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50px" />
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="50px" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px" />
-  
   
   
 </div>
@@ -34,7 +34,7 @@ You can call me "Paul".
   <a href="https://www.instagram.com/pol_warapob/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href "https://www.linkedin.com/in/warapob-keatkongsang-57a871249/" target="_blank">
+  <a href="https://www.linkedin.com/in/warapob-keatkongsang-57a871249/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://web.facebook.com/warapob.keatkongsang" target="_blank">
