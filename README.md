@@ -5,8 +5,8 @@ You can call me "Paul".
 <br/>初めまして。ポルです。KMITL 大学のコンピューター エンジニアリングの学生 3 年生です。
 <br/>今、日本語を勉強しています。よろしくお願いします。
 - 🧑🏻 I'm currently a junior student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
-- 📚 I'm currently learning Machine Learning and more.
-- 🌟 I'm interested in everything that makes me have to code. Especially Machine Learning
+- 📚 I'm currently learning Machine Learning, Deep Learning and more.
+- 🌟 I'm interested in everything that makes me have to code. Especially AI.
 <div>
   <h2> 💻 Tools</h3>
   <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="50px" />
