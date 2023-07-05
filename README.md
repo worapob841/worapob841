@@ -4,9 +4,9 @@ You can call me "Paul".
 <br/>
 <br/>初めまして。ポルです。KMITL 大学のコンピューター エンジニアリングの学生 3 年生です。
 <br/>今、日本語を勉強しています。よろしくお願いします。
-- 🧑🏻 I'm currently a junior student and studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
-- 📚 I'm currently learning Machine Learning, Deep Learning and more.
-- 🌟 I'm interested in everything that makes me have to code. Especially AI.
+- 🧑🏻 I'm currently a senior student studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
+- 📚 I'm currently learning Machine Learning, Deep Learning, and more.
+- 🌟 I'm interested in AI, Especially Computer Vision.
 <div>
   <h2> 💻 Tools</h3>
   <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="50px" />
@@ -26,21 +26,18 @@ You can call me "Paul".
 
 <div>
 
-![Warapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warapob&show_icons=true&card_width=400&hide_border=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warapob&layout=compact&theme=github_dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
+![Worapob's GitHub stats](https://github-readme-stats.vercel.app/api?username=worapob841&show_icons=true&card_width=400&hide_border=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worapob841&layout=compact&theme=github_dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/Watanai1245/github-readme-stats)
   
 </div>
 <div>
-  <a href="https://www.instagram.com/pol_warapob/" target="_blank">
+  <a href="https://www.instagram.com/pol_worapob/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/warapob-keatkongsang-57a871249/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://web.facebook.com/warapob.keatkongsang" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Warapob&label=Views&color=blue&style=for-the-badge" height="25" alt="Warapob.github.io" />
+  <img src="https://komarev.com/ghpvc/?username=worapob841&label=Views&color=blue&style=for-the-badge" height="25" alt="worapob841.github.io" />
   
 </div>
 
