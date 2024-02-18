@@ -2,13 +2,14 @@
 ### I'm Pol 
 You can call me "Paul".
 <br/>
-<br/>初めまして。ポルです。KMITL 大学のコンピューター エンジニアリングの学生 3 年生です。
+<br/>初めまして。ポルです。KMITL 大学のコンピューター エンジニアリングの学生 4 年生です。
 <br/>今、日本語を勉強しています。よろしくお願いします。
 - 🧑🏻 I'm currently a senior student studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
 - 📚 I'm currently learning Machine Learning, Deep Learning, and more.
 - 🌟 I'm interested in AI, Especially Computer Vision.
 <div>
   <h2> 💻 Tools</h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" width="50px" />
   <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="50px" />
   <img src="https://numpy.org/images/logo.svg" width="50px" />
   <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="50px" />
@@ -17,7 +18,9 @@ You can call me "Paul".
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50px" />
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="50px" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/926px-Kubernetes_logo_without_workmark.svg.png" width="50px" />
+  <img src="https://avatars.githubusercontent.com/u/22125274?s=48&v=4" width="50px" />
+  <img src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" width="50px" />
   
   
 </div>
