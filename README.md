@@ -6,7 +6,7 @@ You can call me "Paul".
 <br/>今、日本語を勉強しています。よろしくお願いします。
 - 🧑🏻 I earned my B.Eng. in Computer Engineering from [@KMITL](https://www.kmitl.ac.th/en)
 - 📚 I'm researching Image Processing, Natural Language Processing, and more.
-- 🌟 I'm passionate about AI and am seeking a scholarship to pursue a Master's degree abroad..
+- 🌟 I'm passionate about AI and am seeking a scholarship to pursue a Master's degree abroad.
 <div>
   <h2> 💻 Tools</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" width="50px" />
