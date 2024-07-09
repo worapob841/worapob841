@@ -2,11 +2,11 @@
 ### I'm Pol 
 You can call me "Paul".
 <br/>
-<br/>初めまして。ポルです。KMITL 大学のコンピューター エンジニアリングの学生 4 年生です。
+<br/>初めまして。ポルと申します。KMITL大学を卒業しました。
 <br/>今、日本語を勉強しています。よろしくお願いします。
-- 🧑🏻 I'm currently a senior student studying Computer Engineering [@KMITL](https://www.kmitl.ac.th/en)
-- 📚 I'm currently learning Machine Learning, Deep Learning, and more.
-- 🌟 I'm interested in AI, Especially Computer Vision.
+- 🧑🏻 I earned my B.Eng. in Computer Engineering from [@KMITL](https://www.kmitl.ac.th/en)
+- 📚 I'm researching Image Processing, Natural Language Processing, and more.
+- 🌟 I'm passionate about AI and am seeking a scholarship to pursue a Master's degree abroad..
 <div>
   <h2> 💻 Tools</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" width="50px" />
